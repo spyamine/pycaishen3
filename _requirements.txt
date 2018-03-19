@@ -1,0 +1,5 @@
+pandas
+git+https://github.com/manahl/arctic.git
+pymongo
+numpy
+pytz
