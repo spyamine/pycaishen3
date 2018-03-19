@@ -1,0 +1,12 @@
+2017-02-11 16:02:47,624 - pycaishen.pycaishenstorage - INFO - Loading engine : arctic
+2017-02-11 16:03:14,062 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-07-20 12:52:30,904 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-07-20 12:52:30,941 - pycaishen.pycaishenstorage - INFO - Loading engine : arctic
+2017-07-20 12:52:30,941 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-07-20 12:52:31,017 - pycaishen.ioengines.ioenginearctic - INFO - Read ADH MC Equity
+2017-07-20 12:52:31,019 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-07-20 12:52:31,036 - pycaishen.ioengines.ioenginearctic - INFO - Read BCE MC Equity
+2017-07-20 12:52:31,038 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-07-20 12:52:31,058 - pycaishen.ioengines.ioenginearctic - INFO - Read IAM MC Equity
+2017-07-20 12:52:31,059 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-07-20 12:52:31,076 - pycaishen.ioengines.ioenginearctic - INFO - Read MOSENEW Index

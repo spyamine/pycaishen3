@@ -1,0 +1,71 @@
+2017-09-27 14:54:43,155 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-09-27 14:54:43,236 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-09-27 14:56:19,470 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-09-27 14:56:19,506 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:58,717 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-09-27 14:56:58,729 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:58,834 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:59,063 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Minute.unadjusted
+2017-09-27 14:56:59,063 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:59,239 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Fundamental.fields
+2017-09-27 14:56:59,240 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:59,394 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.Database.symbols
+2017-09-27 14:56:59,394 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:59,539 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Index.Composition
+2017-09-27 14:56:59,539 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:59,691 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Fundamentals.dividends
+2017-09-27 14:56:59,693 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:56:59,901 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.EOD.unadjusted
+2017-09-27 14:56:59,901 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:00,072 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.OpenFigi.symbols
+2017-09-27 14:57:00,072 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:00,240 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Tickers.Metadata
+2017-09-27 14:57:00,240 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:00,390 - pycaishen.ioengines.ioenginearctic - INFO - delete NASDAQq
+2017-09-27 14:57:00,391 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:00,558 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.EOD
+2017-09-27 14:57:00,558 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:00,698 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Fundamentals
+2017-09-27 14:57:00,698 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:00,940 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Minute
+2017-09-27 14:57:00,940 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:01,086 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.PBCHINA
+2017-09-27 14:57:01,086 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:01,315 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.FED
+2017-09-27 14:57:01,315 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:01,499 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.COM
+2017-09-27 14:57:01,499 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:01,653 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.WADI
+2017-09-27 14:57:01,653 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:01,816 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.KFRENCH
+2017-09-27 14:57:01,816 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:02,003 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.ODA
+2017-09-27 14:57:02,003 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:02,292 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.WIKI
+2017-09-27 14:57:02,292 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:02,539 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.CHRIS
+2017-09-27 14:57:02,546 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:02,811 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.USTREASURY
+2017-09-27 14:57:02,811 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:03,272 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.FRED
+2017-09-27 14:57:03,275 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:03,665 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.WFE
+2017-09-27 14:57:03,667 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:03,963 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.WGC
+2017-09-27 14:57:03,963 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:04,148 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.UGID
+2017-09-27 14:57:04,150 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2017-09-27 14:57:04,331 - pycaishen.ioengines.ioenginearctic - INFO - delete Quandl.LSE
+2017-09-27 14:57:04,332 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:49,577 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:49,598 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:49,670 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.OpenFigi.symbols
+2018-03-16 11:26:49,671 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:49,755 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Tickers.Metadata
+2018-03-16 11:26:49,756 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:49,850 - pycaishen.ioengines.ioenginearctic - INFO - delete NASDAQ
+2018-03-16 11:26:49,850 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:49,954 - pycaishen.ioengines.ioenginearctic - INFO - delete Bloomberg.Index.Composition
+2018-03-16 11:26:49,954 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-16 11:26:50,009 - pycaishen.ioengines.ioenginearctic - INFO - delete jblackburn.stocks
+2018-03-16 11:26:50,009 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1

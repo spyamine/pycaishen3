@@ -1,0 +1,15 @@
+2018-03-19 12:13:34,717 - pycaishen.pycaishenstorage - INFO - Loading engine : arctic
+2018-03-19 12:13:34,718 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1
+2018-03-19 12:13:35,343 - pycaishen.ioengines.ioenginearctic - INFO - Failed to Created MongoDB library: Quandl.Database.symbols
+2018-03-19 12:13:35,343 - pycaishen.ioengines.ioenginearctic - INFO - trial nbr: 1 
+2018-03-19 12:13:35,380 - pycaishen.ioengines.ioenginearctic - INFO - Failed to Created MongoDB library: Quandl.Database.symbols
+2018-03-19 12:13:35,381 - pycaishen.ioengines.ioenginearctic - INFO - trial nbr: 2 
+2018-03-19 12:13:35,495 - pycaishen.ioengines.ioenginearctic - INFO - Failed to Created MongoDB library: Quandl.Database.symbols
+2018-03-19 12:13:35,495 - pycaishen.ioengines.ioenginearctic - INFO - trial nbr: 3 
+2018-03-19 12:13:35,549 - pycaishen.ioengines.ioenginearctic - INFO - Failed to Created MongoDB library: Quandl.Database.symbols
+2018-03-19 12:13:35,549 - pycaishen.ioengines.ioenginearctic - INFO - trial nbr: 4 
+2018-03-19 12:13:35,583 - pycaishen.ioengines.ioenginearctic - INFO - Failed to Created MongoDB library: Quandl.Database.symbols
+2018-03-19 12:13:35,583 - pycaishen.ioengines.ioenginearctic - INFO - trial nbr: 5 
+2018-03-19 12:13:35,619 - pycaishen.ioengines.ioenginearctic - INFO - Failed to Created MongoDB library: Quandl.Database.symbols
+2018-03-19 12:13:35,619 - pycaishen.ioengines.ioenginearctic - INFO - trial nbr: 6 
+2018-03-19 12:13:35,659 - pycaishen.ioengines.ioenginearctic - WARNING - No data available for WADI 

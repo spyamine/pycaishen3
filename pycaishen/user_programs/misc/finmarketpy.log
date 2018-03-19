@@ -1,0 +1,13 @@
+2017-08-29 14:41:11,848 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-08-29 14:41:11,907 - pycaishen.pycaishenstorage - INFO - Loading engine : arctic
+2017-08-29 14:41:11,908 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-08-29 14:44:36,454 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-08-29 14:44:36,493 - pycaishen.pycaishenstorage - INFO - Loading engine : arctic
+2017-08-29 14:44:36,493 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-08-29 14:44:36,513 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-08-29 14:45:45,140 - arctic._compression - WARNING - Couldn't import cython lz4
+2017-08-29 14:45:45,174 - pycaishen.pycaishenstorage - INFO - Loading engine : arctic
+2017-08-29 14:45:45,174 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-08-29 14:45:45,194 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-08-29 14:45:45,257 - pycaishen.ioengines.ioenginearctic - INFO - Connect to the mongo-host / clustera127.0.0.1:57017
+2017-08-29 14:45:45,578 - pycaishen.ioengines.ioenginearctic - INFO - Read WIKI/A

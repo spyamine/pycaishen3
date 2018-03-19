@@ -1,0 +1,14 @@
+curl -v -X POST 'https://api.openfigi.com/v1/mapping'        --header 'Content-Type: text/json'              --data '[{"idType":"ID_WERTPAPIER","idValue":"851399","exchCode":"US"}]'
+
+
+https://openfigi.com/search/export?exportToExcel=true&facetQuery=SECURITY_TYP:(%22Common+Stock%22)&facetQuery=_filter_EXCH_CODE:(%22US%22)&facetQuery=MARKET_SECTOR_DES:%22Equity%22&start=0&redirectUrl=https%3A%2F%2Fopenfigi.com%2Fsearch%23!%3Fsearch%3DPREDEFINED%26predefinedMarketSector%3DEquity%26facets%3DMARKET_SECTOR_DES%3A..Equity~SECURITY_TYP%3A..%2522Common%2520Stock%2522%26filters%3DEXCH_CODE%3A..US%26pageSize%3D100
+
+
+https://openfigi.com/search/export?exportToExcel=true&facetQuery=SECURITY_TYP:(%22Common+Stock%22)&facetQuery=_filter_EXCH_CODE:(%22JS%22)&facetQuery=MARKET_SECTOR_DES:%22Equity%22&start=0&redirectUrl=https%3A%2F%2Fopenfigi.com%2Fsearch%23!%3Fsearch%3DPREDEFINED%26predefinedMarketSector%3DEquity%26facets%3DMARKET_SECTOR_DES%3A..Equity~SECURITY_TYP%3A..%2522Common%2520Stock%2522%26filters%3DEXCH_CODE%3A..SJ%26pageSize%3D100
+
+
+https://openfigi.com/search/export?exportToExcel=true&facetQuery=SECURITY_TYP:(%22Common+Stock%22)&facetQuery=_filter_EXCH_CODE:(%22SJ%22)&facetQuery=MARKET_SECTOR_DES:%22Equity%22&start=0&redirectUrl=https%3A%2F%2Fopenfigi.com%2Fsearch%23!%3Fsearch%3DPREDEFINED%26predefinedMarketSector%3DEquity%26facets%3DMARKET_SECTOR_DES%3A..Equity~SECURITY_TYP%3A..%2522Common%2520Stock%2522%26filters%3DEXCH_CODE%3A..SJ%26pageSize%3D100
+
+
+
+https://openfigi.com/search/export?exportToExcel=true&facetQuery=SECURITY_TYP:(%22Common+Stock%22)&facetQuery=_filter_EXCH_CODE:(%22SJ%22)
